@@ -1,4 +1,12 @@
-- 👋 Hi, I'm @Keevsh
-- 👀 I am interested in web programming and Android development.
-- 🌱 I am currently studying systems engineering.
-- 🦇 I am looking to collaborate on interesting projects.
+# 👋 Hi, I'm @Keevsh
+
+### 👀 About Me
+I am passionate about **web programming** and **Android development**. Currently, I am pursuing a degree in **systems engineering** and constantly expanding my knowledge in the tech world.
+
+### 🌱 What I'm Up To
+- 📚 Learning new technologies and improving my coding skills every day.
+- 🦇 Looking to collaborate on **interesting projects** that make a difference.
+
+Feel free to check out my repositories and let's connect if you share similar interests!
+
+[![GitHub followers](https://img.shields.io/github/followers/Keevsh?style=social)](https://github.com/Keevsh)
